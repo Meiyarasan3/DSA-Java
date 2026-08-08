@@ -29,7 +29,7 @@ A structured collection of my **Data Structures and Algorithms** practice using 
 
 ## 🧠 Problem-Solving Approach
 
-For important problems, I focus on:
+For important problems,I focus on:
 
 1. Understanding the problem
 2. Identifying the brute-force approach

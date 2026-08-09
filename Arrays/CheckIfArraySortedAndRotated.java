@@ -24,6 +24,10 @@ class Solution {
             if (nums[i] > nums[(i + 1) % nums.length]) {
                 count++;
             }
+            /*
+            Why % nums.length?
+            This:(i + 1) % nums.length
+            it makes the last element compare with the first.*/
 
             if (count > 1) {
                 return false;
